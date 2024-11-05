@@ -1,0 +1,18 @@
+a {
+  color: chartreuse;
+  text-decoration: none;
+}
+
+body {
+  background: rgb(119, 15, 15);
+  padding: calc(20rem / 16) 30px;
+}
+
+h1,
+h3 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: rgb(0, 0, 0);
+}
+
+p {
+}
